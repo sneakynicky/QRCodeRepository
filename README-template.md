@@ -25,53 +25,28 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/sneakynicky/QRCodeRepository)
+- Live Site URL: [Add live site URL here](https://sneakynicky.github.io/)
 
 ## My process
+I looked at the provided images and started to draw it out on a piece of paper to list down the components needed. Once I had an idea, I decided to use Flexbox only because it seemed to be only a one-dimensional process. 
+
+Next, I started by creating the components in the HTML file like how I imagined it would be nested. From there, I took it from the outside-in approach from the container to the card, to the image, to the header and content. 
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+1. I actually don't know how to start and address the CSS challenge. I think that I know what I'm doing but it seems to be a lot of just trial and error. Mostly, I just don't how how to tackle the styling problem and address it methodically. 
+2. Spacing and positioning still eludes me. Even though I'm using Flexbox (because I need to learn it), I don't quite understand what I'm doing and solely relying on my older ways to figure out how to get things done. 
+3. I learnt to use the @import statement. That's new to me. 
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I want to be able to create layouts and components using Flexbox first. Understanding how it works along with what other content I need to know like box sizing, padding, margins, spacing. When do I use rem? When do I use em? I need to figure this out. 
 
 ### Useful resources
 
@@ -82,14 +57,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [Dominic](https://sneakynicky.github.io)
+- Frontend Mentor - [@sneakynicky](https://www.frontendmentor.io/profile/sneakynicky)
